@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Andres Diaz, i'm a software engineering student at UN.
+
+- 🌱 I’m currently learning Deep Learning & AI
+- :hammer: Hard skills: Python, Data Analytics, Math, JavaScript
+- :v: Soft skills: empathy, teamwork
+- ⚡ Fun fact: I love chess.
 <!--
 **andiazo/andiazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
