@@ -3,7 +3,7 @@
 My name is Andres Diaz, i'm a software engineering student at UN.
 
 - 🌱 I’m currently learning Deep Learning & AI
-- :hammer: Hard skills: Building WEB3 and AI :)
+- :hammer: Building Web3 and AI :)
 - :v: Soft skills: empathy, teamwork
 - ⚡ Fun fact: I love chess.
 
