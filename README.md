@@ -11,7 +11,7 @@
   </a>
 </div>
 
-My name is Andres Diaz, i'm a software engineering student at UN.
+My name is Andres Diaz, i'm a software engineer
 
 - 🌱 I’m currently learning Deep Learning & AI
 - :hammer: Building Web3 and AI :)
